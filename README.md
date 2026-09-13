@@ -11,10 +11,4 @@
 | 市ヶ谷駅 <br>(都営新宿線) | 市**ケ**谷駅 | 助数詞の「ヶ」(U+30F6) | [東京都交通局](https://www.kotsu.metro.tokyo.jp/subway/stations/ichigaya.html) | - |
 | iTLFest. | iTLFest<br> iTL Fest. | スペース無し、末尾にピリオド | [iTLFest.](https://itlfest.com/) | 2025年開催時点。かつては異なる表記が使われていた。 |
 | manaba | Manaba | 全て小文字 | [manaba.jp](https://manaba.jp/) | - |
-| - | - | - | - | - |
 
-# 不明なもの
-- C plus \
-    大学公式でも `Cplus`(スペース無し) と `C plus`(スペース有り) の表記が混在している
-    1. https://www.ac04.tamacc.chuo-u.ac.jp/ActiveCampus/index.html
-    2. https://www.chuo-u.ac.jp/academics/pro_graduateschool/business/info/accounting_info/system/
